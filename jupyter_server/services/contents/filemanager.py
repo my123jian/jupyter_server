@@ -1,4 +1,5 @@
 """A contents manager that uses the local file system for storage."""
+#这个是文件保存处理工具
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 from __future__ import annotations
